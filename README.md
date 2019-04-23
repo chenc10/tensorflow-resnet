@@ -8,3 +8,5 @@ How to run the ResNet model?
 - Set the appropriate ip address (master/slaves) in run_resnet_sync.sh.
 
 - Run 'bash run_resnet_sync.sh'
+
+#
